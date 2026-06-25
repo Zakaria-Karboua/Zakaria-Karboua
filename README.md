@@ -2,7 +2,7 @@
 
 🎓 I'm a 4th-year SEAS (Data Science and Acturial Science) student at the National Higher School of Mathematics in Algeria.
 
-🔍 Currently focused on building real-world data projects, improving my machine learning skills, and preparing for remote and international opportunities in data science.
+🔍 Currently focused on building real-world data projects, improving my ML/DL skills, and preparing for remote and international opportunities in data science.
 
 💡 I’m interested in:
 - Data Analysis & Visualization
