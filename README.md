@@ -1,15 +1,17 @@
-### Hi there, I'm Zakaria 👋
+### Hi, I'm Zakaria 👋
 
-🎓 I'm a 4th-year SEAS (Data Science and Acturial Science) student at the National Higher School of Mathematics in Algeria.
+🎓 4th-year Statistics & Actuarial Science student at ENSM (École Nationale Supérieure de Mathématiques), Algiers.
 
-🔍 Currently focused on building real-world data projects, improving my ML/DL skills, and preparing for remote and international opportunities in data science.
+🔬 I work at the intersection of **statistical modeling**, **actuarial science**, and **applied ML** — building end-to-end pipelines for real-world datasets.
 
-💡 I’m interested in:
-- Data Analysis & Visualization
-- Machine Learning & AI
-- Solving real-world problems using Python & statistics
+### 🚀 Recent Projects
+- **Time Series (Box-Jenkins)** — Full ARIMA/SARIMA pipeline with a Streamlit GUI; validated on the Airline Passengers dataset
+- **Cardiology Mortality Prediction** — XGBoost + SHAP + SMOTE on 24K patient records (CHU Beni Messous internship)
+- **Customer Segmentation** — RFM + K-Means/DBSCAN/GMM on UCI Online Retail Dataset
+- **Option Pricing (LSM)** — Longstaff-Schwartz American option pricer with Streamlit dashboard
+- **EVT & Risk Modeling** — GPD/MLE, Pickands/Hill/Moments estimators, reinsurance premium estimation
 
-🛠️ Tools & Technologies:
-Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Jupyter Notebooks
+### 🛠️ Stack
+Python · R · Streamlit · XGBoost · scikit-learn · Statsmodels · SHAP · LaTeX · Pandas · NumPy · Matplotlib
 
-📫 Reach me at: karbouazakaria0@gmail.com
+📫 karbouazakaria0@gmail.com · [LinkedIn](https://www.linkedin.com/in/karboua-zakaria-88a52b297/)
