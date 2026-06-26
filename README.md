@@ -1,6 +1,6 @@
 ### Hi, I'm Zakaria 👋
 
-🎓 5th-year Statistics & Actuarial Science student at ENSM (École Nationale Supérieure de Mathématiques), Algiers.
+🎓 5th-year Statistics & Actuarial Science student at NHSM (National Higher School of Mathematics), Algiers.
 
 🔬 I work at the intersection of **statistical modeling**, **actuarial science**, and **applied ML** — building end-to-end pipelines for real-world datasets.
 
