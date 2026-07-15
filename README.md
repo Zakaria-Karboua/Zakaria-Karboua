@@ -2,9 +2,9 @@
 
 Statistics & Actuarial Science Student · ML / Data Science Engineer
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zakaria23213)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zakaria-Karboua/Zakaria-Karboua)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karboua-zakaria-88a52b297)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakaria.karboua@nhsm.edu.dz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karbouazakaria0@gmail.com)
 
 ---
 
@@ -15,7 +15,7 @@ Statistics & Actuarial Science Student · ML / Data Science Engineer
 - 🏦 Previously an **Actuarial Discovery intern** at AXA Assurances Algérie, working across PSAP/PPNA provisioning, loss ratios, and tarification
 - 🔬 I care about **economic interpretability** and intellectual honesty in modelling — if a model beats a benchmark, I want to know *why*, not just *that*
 - 🌍 Native Arabic speaker, working toward **C1 English**, functional in French
-- 📫 Reach me at **zakaria.karboua@nhsm.edu.dz**
+- 📫 Reach me at **karbouazakaria0@gmail.com**
 
 ---
 
