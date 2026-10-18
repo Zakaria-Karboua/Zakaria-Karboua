@@ -12,7 +12,7 @@ Statistics & Actuarial Science Student · ML / Data Science Engineer
 
 ## 🧑‍💻 About Me
 
-- 🎓 4th-year **Statistics & Actuarial Science** student at **NHSM** (National Higher School of Mathematics), Algeria — graduating June 2027
+- 🎓 5th-year **Statistics & Actuarial Science** student at **NHSM** (National Higher School of Mathematics), Algeria — graduating June 2027
 - 🏥 Recently completed a **Cardiology Data Science internship** at CHU Hôpital Issad Hassani, building an XGBoost mortality-prediction pipeline tuned for clinical recall
 - 🏦 Previously an **Actuarial Discovery intern** at AXA Assurances Algérie, working across PSAP/PPNA provisioning, loss ratios, and tarification
 - 🔬 I care about **interpretability** and intellectual honesty in modelling — if a model beats a benchmark, I want to know *why*, not just *that*
